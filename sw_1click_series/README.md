@@ -1,36 +1,57 @@
 # Moho Scripts: 1Click シリーズ
 
 [Moho](https://www.mohoanimation.com/) がちょっと便利になる小物シリーズです。  
-Moho Pro 13 でテストしています。他のバージョンで動くかは分かりません。
+Moho Pro 13 Windows 版のみでテストしています。他のバージョンで動くかは分かりません。
 
-### sw_1click_fillstroke_visibility
+---
 
-- 塗りつぶし・ストロークの表示を ON・OFF します。
+### ![](https://raw.githubusercontent.com/sootwork/moho-scripts/master/sw_1click_series/Moho%20Custom%20Content%20Folder/Moho%20Pro/scripts/tool/sw_1click_fillstroke_visibility%402x.png) sw_1click_fillstroke_visibility
 
-### sw_1click_flipview
+塗りつぶし・ストロークの表示を ON・OFF します。
 
-- すべてのレイヤーを１つのルートフォルダに入れてお絵かきツールのような左右反転を可能にします。
+---
 
-### sw_1click_preview
+### ![alt](https://raw.githubusercontent.com/sootwork/moho-scripts/master/sw_1click_series/Moho%20Custom%20Content%20Folder/Moho%20Pro/scripts/tool/sw_1click_flipview%402x.png) sw_1click_flipview
 
-- **ファイル > プレビュー...** を実行します。
+すべてのレイヤーを１つのルートフォルダに入れてお絵かきツールのような左右反転を可能にします。
 
-### sw_1click_undo / sw_1click_redo
+---
 
-- **編集 > 元に戻す/ やり直す** を実行します
+### ![alt](https://raw.githubusercontent.com/sootwork/moho-scripts/master/sw_1click_series/Moho%20Custom%20Content%20Folder/Moho%20Pro/scripts/tool/sw_1click_preview%402x.png) sw_1click_preview
 
-### sw_1click_wireframe_visibility
+**ファイル > プレビュー...** を実行します。
 
-- パスの表示を ON・OFF します。
+---
 
-### sw_1click_zoom_in / sw_1click_zoom_out
+### ![alt](https://raw.githubusercontent.com/sootwork/moho-scripts/master/sw_1click_series/Moho%20Custom%20Content%20Folder/Moho%20Pro/scripts/tool/sw_1click_undo%402x.png) sw_1click_undo / ![alt](https://raw.githubusercontent.com/sootwork/moho-scripts/master/sw_1click_series/Moho%20Custom%20Content%20Folder/Moho%20Pro/scripts/tool/sw_1click_redo%402x.png) sw_1click_redo
 
-- Clip Studio の初期設定と同じ刻みで拡大 / 縮小します。
+**編集 > 元に戻す/ やり直す** を実行します
 
-### sw_1click_zoom_reset / sw_1click_zoom_selection
+---
 
-- **表示 > リセット / 選択範囲をズーム** を実行します。
+### ![alt](https://raw.githubusercontent.com/sootwork/moho-scripts/master/sw_1click_series/Moho%20Custom%20Content%20Folder/Moho%20Pro/scripts/tool/sw_1click_wireframe_visibility%402x.png) sw_1click_wireframe_visibility
 
-### sw_1click_zoom_x1
+パスの表示を ON・OFF します。
 
-- 等倍表示します。
+---
+
+### ![](https://raw.githubusercontent.com/sootwork/moho-scripts/master/sw_1click_series/Moho%20Custom%20Content%20Folder/Moho%20Pro/scripts/tool/sw_1click_zoom_in%402x.png)sw_1click_zoom_in / ![](https://raw.githubusercontent.com/sootwork/moho-scripts/master/sw_1click_series/Moho%20Custom%20Content%20Folder/Moho%20Pro/scripts/tool/sw_1click_zoom_out%402x.png) sw_1click_zoom_out
+
+Clip Studio の初期設定と同じ刻みで拡大 / 縮小します。
+
+---
+
+### ![](https://raw.githubusercontent.com/sootwork/moho-scripts/master/sw_1click_series/Moho%20Custom%20Content%20Folder/Moho%20Pro/scripts/tool/sw_1click_zoom_reset%402x.png) sw_1click_zoom_reset / ![](https://raw.githubusercontent.com/sootwork/moho-scripts/master/sw_1click_series/Moho%20Custom%20Content%20Folder/Moho%20Pro/scripts/tool/sw_1click_zoom_selection%402x.png) sw_1click_zoom_selection
+
+**表示 > リセット / 選択範囲をズーム** を実行します。
+
+---
+
+### ![](https://raw.githubusercontent.com/sootwork/moho-scripts/master/sw_1click_series/Moho%20Custom%20Content%20Folder/Moho%20Pro/scripts/tool/sw_1click_zoom_x1%402x.png)sw_1click_zoom_x1
+
+等倍表示します。
+
+---
+
+これらのスクリプトによっで生じたあらゆる損害について一切の責任を負いかねます。  
+必ずバックアップを取り自己責任で実行してください。
