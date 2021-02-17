@@ -1,7 +1,8 @@
 # Moho Scripts: 1Click シリーズ
 
-[Moho](https://www.mohoanimation.com/) がちょっと便利になる小物シリーズです。  
-Moho Pro 13 Windows 版のみでテストしています。他のバージョンで動くかは分かりません。
+[Moho](https://www.mohoanimation.com/) がちょっと便利になる小物スクリプト集です。
+
+[ダウンロード・インストールはこちらから。](https://github.com/sootwork/moho-scripts)
 
 ---
 
@@ -13,7 +14,7 @@ Moho Pro 13 Windows 版のみでテストしています。他のバージョン
 
 ### ![alt](https://raw.githubusercontent.com/sootwork/moho-scripts/master/sw_1click_series/Moho%20Custom%20Content%20Folder/Moho%20Pro/scripts/tool/sw_1click_flipview%402x.png) sw_1click_flipview
 
-すべてのレイヤーを１つのルートフォルダに入れてお絵かきツールのような左右反転を可能にします。
+すべてのレイヤーを１つのルートフォルダに入れ、お絵かきツールのような左右反転を可能にします。
 
 ---
 
@@ -50,8 +51,3 @@ Clip Studio の初期設定と同じ刻みで拡大 / 縮小します。
 ### ![](https://raw.githubusercontent.com/sootwork/moho-scripts/master/sw_1click_series/Moho%20Custom%20Content%20Folder/Moho%20Pro/scripts/tool/sw_1click_zoom_x1%402x.png)sw_1click_zoom_x1
 
 等倍表示します。
-
----
-
-これらのスクリプトによっで生じたあらゆる損害について一切の責任を負いかねます。  
-必ずバックアップを取り自己責任で実行してください。
